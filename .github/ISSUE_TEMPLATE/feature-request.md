@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Request new functionality for THIS_SOFTWARE
+about: Request new functionality for this software
 labels: 'Triage: Feature Request'
 ---
 
