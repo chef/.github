@@ -1,8 +1,3 @@
----
-name: Pull Request
-labels: "Status: Untriaged"
----
-
 <!--- Provide a short summary of your changes in the Title above -->
 
 ## Description
