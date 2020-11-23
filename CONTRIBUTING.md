@@ -1,3 +1,3 @@
-# Contributing to PROJECT_NAME
+# Contributing to Chef projects
 
-Provide full instructions on how a new user can contribute to your project here.
+Please refer to the list of guideines found at https://github.com/chef/chef-oss-practices
