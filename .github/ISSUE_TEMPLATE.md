@@ -1,7 +1,7 @@
 ---
-name: Bug Report
-about: Explain how this software is not working as expected.
-labels: 'Type: Bug'
+name: 🐛 Bug Report
+about: If something isn't working as expected 🤔.
+labels: "Status: Untriaged"
 ---
 
 <!--- Provide a general summary of the issue in the Title above -->
