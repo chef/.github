@@ -21,5 +21,6 @@
 - [ ] I have run the pre-merge tests locally and they pass.
 - [ ] I have updated the documentation accordingly.
 - [ ] I have added tests to cover my changes.
+- [ ] If `Gemfile.lock` has changed, I have used `--conservative` to do it and included the full output in the Description above.
 - [ ] All new and existing tests passed.
 - [ ] All commits have been signed-off for [the Developer Certificate of Origin](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#developer-certification-of-origin-dco).
