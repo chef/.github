@@ -1,0 +1,22 @@
+# test workflow echos back input, typically called from another repo
+# based on https://docs.github.com/en/actions/using-workflows/reusing-workflows
+
+on:
+  workflow_call:
+    inputs:
+      message:
+        required: true
+        type: string
+  workflow_dispatch:
+    inputs:
+      message:
+        required: true
+        type: string
+jobs:
+  reusable_echo:
+    name: echo message back
+    runs-on: ubuntu-latest
+    steps:
+      - name: echo
+        run: |
+          echo "Hello ${{ inputs.message }}"
