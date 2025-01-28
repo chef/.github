@@ -22,5 +22,6 @@
 - [ ] I have updated the documentation accordingly.
 - [ ] I have added tests to cover my changes.
 - [ ] If `Gemfile.lock` has changed, I have used `--conservative` to do it and included the full output in the Description above.
+- [ ] I have not left commented out blocks of code or other temporary changes (debugs, etc.) in the "Ready for Review" request.
 - [ ] All new and existing tests passed.
 - [ ] All commits have been signed-off for [the Developer Certificate of Origin](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#developer-certification-of-origin-dco).
